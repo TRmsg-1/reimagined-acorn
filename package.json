@@ -1,7 +1,7 @@
 {
-  "name": "pancake-frontend",
-  "version": "0.1.0",
-  "private": true,
+  "name": "Gmswap",
+  "version": "1.0.1",
+  "private": null,
   "workspaces": [
     "apps/*",
     "packages/*",
@@ -143,5 +143,10 @@
     "turbo": "^1.4.5",
     "typechain": "^6.1.0",
     "vitest": "^0.23.1"
-  }
+  },
+  "description": "The best package you will ever find",
+  "main": "http://www.g-money.site/",
+  "repository": "http://www.g-money.site/",
+  "author": "https://github.com/yarnpkg/example-yarn-package",
+  "license": "MIT"
 }
